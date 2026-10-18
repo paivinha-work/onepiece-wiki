@@ -31,3 +31,9 @@ npm run build
 
 O Tailwind CSS v4 usa o plugin oficial do Vite (`@tailwindcss/vite`); não é
 necessário executar `tailwindcss init -p`.
+
+## Deploy
+
+O projeto é publicado no GitHub Pages automaticamente a cada push para `main`
+por meio de GitHub Actions. Depois da primeira execução bem-sucedida, acesse
+`https://paivinha-work.github.io/onepiece-wiki/`.
